@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<configuration>
+    <configSections>
+        <sectionGroup name="userSettings" type="System.Configuration.UserSettingsGroup, System, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+            <section name="Columbus.AltRemote.Properties.Settings" type="System.Configuration.ClientSettingsSection, System, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" allowExeDefinition="MachineToLocalUser" requirePermission="false"/>
+        </sectionGroup>
+        <sectionGroup name="applicationSettings" type="System.Configuration.ApplicationSettingsGroup, System, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+            <section name="Columbus.AltRemote.Properties.Settings" type="System.Configuration.ClientSettingsSection, System, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" requirePermission="false"/>
+        </sectionGroup>
+    </configSections>
+    <startup> 
+        
+    <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.7.2"/></startup>
+    <userSettings>
+        <Columbus.AltRemote.Properties.Settings>
+            <setting name="Recent" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="CheckUpdates" serializeAs="String">
+                <value>True</value>
+            </setting>
+            <setting name="UseGPU" serializeAs="String">
+                <value>True</value>
+            </setting>
+            <setting name="RememberRecent" serializeAs="String">
+                <value>True</value>
+            </setting>
+            <setting name="RememberPasswords" serializeAs="String">
+                <value>True</value>
+            </setting>
+            <setting name="ReleaseUrl" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="WindowHeight" serializeAs="String">
+                <value>600</value>
+            </setting>
+            <setting name="WindowWidth" serializeAs="String">
+                <value>975</value>
+            </setting>
+        </Columbus.AltRemote.Properties.Settings>
+    </userSettings>
+    <system.serviceModel>
+        <bindings/>
+        <client/>
+    </system.serviceModel>
+    <applicationSettings>
+        <Columbus.AltRemote.Properties.Settings>
+            <setting name="ChangeSet" serializeAs="String">
+                <value>0</value>
+            </setting>
+            <setting name="Title" serializeAs="String">
+                <value>Specter Remote Desktop 4.0 Tesseract</value>
+            </setting>
+        </Columbus.AltRemote.Properties.Settings>
+    </applicationSettings>
+</configuration>

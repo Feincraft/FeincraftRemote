@@ -1,0 +1,59 @@
+c:\users\fain\documents\visual studio 2012\Projects\Columbus.AltRemote\Columbus.AltRemote\bin\Debug\Columbus.AltRemote.exe.config
+c:\users\fain\documents\visual studio 2012\Projects\Columbus.AltRemote\Columbus.AltRemote\bin\Debug\Columbus.AltRemote.exe
+c:\users\fain\documents\visual studio 2012\Projects\Columbus.AltRemote\Columbus.AltRemote\bin\Debug\Columbus.AltRemote.pdb
+c:\users\fain\documents\visual studio 2012\Projects\Columbus.AltRemote\Columbus.AltRemote\obj\Debug\Columbus.AltRemote.MainFrame.resources
+c:\users\fain\documents\visual studio 2012\Projects\Columbus.AltRemote\Columbus.AltRemote\obj\Debug\Columbus.AltRemote.Properties.Resources.resources
+c:\users\fain\documents\visual studio 2012\Projects\Columbus.AltRemote\Columbus.AltRemote\obj\Debug\Columbus.AltRemote.csproj.GenerateResource.Cache
+c:\users\fain\documents\visual studio 2012\Projects\Columbus.AltRemote\Columbus.AltRemote\obj\Debug\Columbus.AltRemote.exe
+c:\users\fain\documents\visual studio 2012\Projects\Columbus.AltRemote\Columbus.AltRemote\obj\Debug\Columbus.AltRemote.pdb
+C:\Users\fain\documents\visual studio 2012\Projects\Columbus.AltRemote\Columbus.AltRemote\obj\Debug\Columbus.AltRemote.SizePreview.resources
+C:\Users\fain\Documents\Visual Studio 2012\Projects\Columbus.AltRemote\Columbus.AltRemote\obj\Debug\Columbus.AltRemote.Options.resources
+C:\Users\fain\Documents\Visual Studio 2012\Projects\Columbus.AltRemote\Columbus.AltRemote\bin\Debug\Columbus.AltRemote.exe.manifest
+C:\Users\fain\Documents\Visual Studio 2012\Projects\Columbus.AltRemote\Columbus.AltRemote\bin\Debug\Columbus.AltRemote.application
+C:\Users\fain\Documents\Visual Studio 2012\Projects\Columbus.AltRemote\Columbus.AltRemote\obj\Debug\Columbus.AltRemote.TrustInfo.xml
+C:\Users\fain\Documents\Visual Studio 2012\Projects\Columbus.AltRemote\Columbus.AltRemote\obj\Debug\Columbus.AltRemote.exe.manifest
+C:\Users\fain\Documents\Visual Studio 2012\Projects\Columbus.AltRemote\Columbus.AltRemote\obj\Debug\Columbus.AltRemote.application
+C:\Users\fain\Documents\Visual Studio 2012\Projects\Columbus.AltRemote\Columbus.AltRemote\bin\Debug\Template
+C:\Users\fain\Documents\Visual Studio 2012\Projects\Columbus.AltRemote\Columbus.AltRemote\obj\Debug\Columbus.AltRemote.csprojResolveAssemblyReference.cache
+C:\Users\fain\Documents\Visual Studio 2012\Projects\Columbus.AltRemote\Columbus.AltRemote\obj\Debug\Columbus.AltRemote.UpdateInfo.resources
+X:\Users\Ilya Fainberg\Devel\Columbus.AltRemote\Columbus.AltRemote\bin\Debug\Template
+X:\Users\Ilya Fainberg\Devel\Columbus.AltRemote\Columbus.AltRemote\bin\Debug\Columbus.AltRemote.exe.config
+X:\Users\Ilya Fainberg\Devel\Columbus.AltRemote\Columbus.AltRemote\bin\Debug\Columbus.AltRemote.exe
+X:\Users\Ilya Fainberg\Devel\Columbus.AltRemote\Columbus.AltRemote\bin\Debug\Columbus.AltRemote.pdb
+X:\Users\Ilya Fainberg\Devel\Columbus.AltRemote\Columbus.AltRemote\bin\Debug\VncSharp.dll
+X:\Users\Ilya Fainberg\Devel\Columbus.AltRemote\Columbus.AltRemote\bin\Debug\VncSharp.pdb
+X:\Users\Ilya Fainberg\Devel\Columbus.AltRemote\Columbus.AltRemote\obj\Debug\Columbus.AltRemote.MainFrame.resources
+X:\Users\Ilya Fainberg\Devel\Columbus.AltRemote\Columbus.AltRemote\obj\Debug\Columbus.AltRemote.Options.resources
+X:\Users\Ilya Fainberg\Devel\Columbus.AltRemote\Columbus.AltRemote\obj\Debug\Columbus.AltRemote.Properties.Resources.resources
+X:\Users\Ilya Fainberg\Devel\Columbus.AltRemote\Columbus.AltRemote\obj\Debug\Columbus.AltRemote.SizePreview.resources
+X:\Users\Ilya Fainberg\Devel\Columbus.AltRemote\Columbus.AltRemote\obj\Debug\Columbus.AltRemote.UpdateInfo.resources
+X:\Users\Ilya Fainberg\Devel\Columbus.AltRemote\Columbus.AltRemote\obj\Debug\Columbus.AltRemote.VncClient.resources
+X:\Users\Ilya Fainberg\Devel\Columbus.AltRemote\Columbus.AltRemote\obj\Debug\Columbus.AltRemote.csproj.GenerateResource.cache
+X:\Users\Ilya Fainberg\Devel\Columbus.AltRemote\Columbus.AltRemote\obj\Debug\Columbus.AltRemote.csproj.CoreCompileInputs.cache
+X:\Users\Ilya Fainberg\Devel\Columbus.AltRemote\Columbus.AltRemote\obj\Debug\Columbus.AltRemote.csproj.CopyComplete
+X:\Users\Ilya Fainberg\Devel\Columbus.AltRemote\Columbus.AltRemote\obj\Debug\Columbus.AltRemote.exe
+X:\Users\Ilya Fainberg\Devel\Columbus.AltRemote\Columbus.AltRemote\obj\Debug\Columbus.AltRemote.pdb
+X:\Users\Ilya Fainberg\Devel\Columbus.AltRemote\Columbus.AltRemote\obj\Debug\Columbus.AltRemote.csprojAssemblyReference.cache
+C:\Users\ifain\feincraftcloud\Storage - Files\Users\Ilya Fainberg\Devel\Columbus.AltRemote3\Columbus.AltRemote\bin\Debug\Template
+C:\Users\ifain\feincraftcloud\Storage - Files\Users\Ilya Fainberg\Devel\Columbus.AltRemote3\Columbus.AltRemote\bin\Debug\SpecterRemote.exe.config
+C:\Users\ifain\feincraftcloud\Storage - Files\Users\Ilya Fainberg\Devel\Columbus.AltRemote3\Columbus.AltRemote\bin\Debug\SpecterRemote.exe.manifest
+C:\Users\ifain\feincraftcloud\Storage - Files\Users\Ilya Fainberg\Devel\Columbus.AltRemote3\Columbus.AltRemote\bin\Debug\SpecterRemote.application
+C:\Users\ifain\feincraftcloud\Storage - Files\Users\Ilya Fainberg\Devel\Columbus.AltRemote3\Columbus.AltRemote\bin\Debug\SpecterRemote.exe
+C:\Users\ifain\feincraftcloud\Storage - Files\Users\Ilya Fainberg\Devel\Columbus.AltRemote3\Columbus.AltRemote\bin\Debug\SpecterRemote.pdb
+C:\Users\ifain\feincraftcloud\Storage - Files\Users\Ilya Fainberg\Devel\Columbus.AltRemote3\Columbus.AltRemote\bin\Debug\VncSharp.dll
+C:\Users\ifain\feincraftcloud\Storage - Files\Users\Ilya Fainberg\Devel\Columbus.AltRemote3\Columbus.AltRemote\bin\Debug\VncSharp.pdb
+C:\Users\ifain\feincraftcloud\Storage - Files\Users\Ilya Fainberg\Devel\Columbus.AltRemote3\Columbus.AltRemote\obj\Debug\Columbus.AltRemote.MainFrame.resources
+C:\Users\ifain\feincraftcloud\Storage - Files\Users\Ilya Fainberg\Devel\Columbus.AltRemote3\Columbus.AltRemote\obj\Debug\Columbus.AltRemote.Options.resources
+C:\Users\ifain\feincraftcloud\Storage - Files\Users\Ilya Fainberg\Devel\Columbus.AltRemote3\Columbus.AltRemote\obj\Debug\Columbus.AltRemote.Properties.Resources.resources
+C:\Users\ifain\feincraftcloud\Storage - Files\Users\Ilya Fainberg\Devel\Columbus.AltRemote3\Columbus.AltRemote\obj\Debug\Columbus.AltRemote.SizePreview.resources
+C:\Users\ifain\feincraftcloud\Storage - Files\Users\Ilya Fainberg\Devel\Columbus.AltRemote3\Columbus.AltRemote\obj\Debug\Columbus.AltRemote.UpdateInfo.resources
+C:\Users\ifain\feincraftcloud\Storage - Files\Users\Ilya Fainberg\Devel\Columbus.AltRemote3\Columbus.AltRemote\obj\Debug\Columbus.AltRemote.VncClient.resources
+C:\Users\ifain\feincraftcloud\Storage - Files\Users\Ilya Fainberg\Devel\Columbus.AltRemote3\Columbus.AltRemote\obj\Debug\Columbus.AltRemote.csproj.GenerateResource.cache
+C:\Users\ifain\feincraftcloud\Storage - Files\Users\Ilya Fainberg\Devel\Columbus.AltRemote3\Columbus.AltRemote\obj\Debug\Columbus.AltRemote.csproj.CoreCompileInputs.cache
+C:\Users\ifain\feincraftcloud\Storage - Files\Users\Ilya Fainberg\Devel\Columbus.AltRemote3\Columbus.AltRemote\obj\Debug\SpecterRemote.TrustInfo.xml
+C:\Users\ifain\feincraftcloud\Storage - Files\Users\Ilya Fainberg\Devel\Columbus.AltRemote3\Columbus.AltRemote\obj\Debug\SpecterRemote.exe.manifest
+C:\Users\ifain\feincraftcloud\Storage - Files\Users\Ilya Fainberg\Devel\Columbus.AltRemote3\Columbus.AltRemote\obj\Debug\SpecterRemote.application
+C:\Users\ifain\feincraftcloud\Storage - Files\Users\Ilya Fainberg\Devel\Columbus.AltRemote3\Columbus.AltRemote\obj\Debug\Columbus.AltRemote.csproj.CopyComplete
+C:\Users\ifain\feincraftcloud\Storage - Files\Users\Ilya Fainberg\Devel\Columbus.AltRemote3\Columbus.AltRemote\obj\Debug\SpecterRemote.exe
+C:\Users\ifain\feincraftcloud\Storage - Files\Users\Ilya Fainberg\Devel\Columbus.AltRemote3\Columbus.AltRemote\obj\Debug\SpecterRemote.pdb
+C:\Users\ifain\feincraftcloud\Storage - Files\Users\Ilya Fainberg\Devel\Columbus.AltRemote3\Columbus.AltRemote\obj\Debug\Columbus.AltRemote.csprojAssemblyReference.cache

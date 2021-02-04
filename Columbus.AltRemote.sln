@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Columbus.AltRemote", "Columbus.AltRemote\Columbus.AltRemote.csproj", "{95283C14-B624-4525-AD2C-158990E5C24B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CD_ROM|Any CPU = CD_ROM|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		DVD-5|Any CPU = DVD-5|Any CPU
+		Release|Any CPU = Release|Any CPU
+		SingleImage|Any CPU = SingleImage|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95283C14-B624-4525-AD2C-158990E5C24B}.CD_ROM|Any CPU.ActiveCfg = Release|Any CPU
+		{95283C14-B624-4525-AD2C-158990E5C24B}.CD_ROM|Any CPU.Build.0 = Release|Any CPU
+		{95283C14-B624-4525-AD2C-158990E5C24B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95283C14-B624-4525-AD2C-158990E5C24B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95283C14-B624-4525-AD2C-158990E5C24B}.DVD-5|Any CPU.ActiveCfg = Debug|Any CPU
+		{95283C14-B624-4525-AD2C-158990E5C24B}.DVD-5|Any CPU.Build.0 = Debug|Any CPU
+		{95283C14-B624-4525-AD2C-158990E5C24B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95283C14-B624-4525-AD2C-158990E5C24B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95283C14-B624-4525-AD2C-158990E5C24B}.SingleImage|Any CPU.ActiveCfg = Release|Any CPU
+		{95283C14-B624-4525-AD2C-158990E5C24B}.SingleImage|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8CF226BF-CD7C-4151-9309-C12101142AEE}
+	EndGlobalSection
+EndGlobal
